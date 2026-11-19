@@ -2,3 +2,4 @@ opencv-python>=4.10.0
 pyvirtualcam>=0.15.0
 onnxruntime>=1.18.0
 numpy>=1.24.0
+keyboard>=0.13.5
